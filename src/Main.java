@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+
         //Создаем первую книгу и его клон
         Author agataKrist = new Author("Агата", "Кристи");
         Book tenLittleNiggers = new Book("Десят негретят", agataKrist, 1939);
